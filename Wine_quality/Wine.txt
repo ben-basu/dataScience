@@ -1,0 +1,2 @@
+This is wine quality dataset and source code that depicts how to use Linear regression model and make some small predictions. 
+This might help beginner data scientists to get started.
