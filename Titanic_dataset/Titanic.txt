@@ -1,0 +1,6 @@
+A very popular dataset. This code is in jupyter notebook. 
+Steps to perform Linear regression.
+1.Clean the data
+2.Extract essential features
+3.Train the model
+4.Test
